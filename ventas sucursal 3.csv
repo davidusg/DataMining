@@ -1,4 +1,4 @@
 SalesOrderID,SalesOrderDetailID,OrderQty,UnitPriceWithDiscount,UnitPrice,UnitPriceDiscount,LineTotal,ProductID,productName,StandardCost,ListPrice,productCategoryName,CompanyName,ShipMethod,DueDate,shipToAddressCity,sucursal
-999987,999987,5,24.29,24.29,0.00,0,938,LL Road Pedal,17.98,40.49,Pedals,Bulk Discount Store,CARGO TRANSPORT 5,7/1/2021 0:00,Durango,Sucursal 3
-999988,999988,6,5.11,5.21,0.02,0,875,Racing Socks - L,3.36,8.99,Socks,Remarkable Bike Store,CARGO TRANSPORT 5,7/1/2021 0:00,Durango,Sucursal 4
-999989,999989,4,2.99,2.99,0.00,0,870,Water Bottle - 30 oz.,1.87,4.99,Bottles and Cages,The Bicycle Accessories Company,CARGO TRANSPORT 5,7/1/2021 0:00,Chihuahua,Sucursal 5
+999987,999987,5,24.29,24.29,0,0,938,LL Road Pedal,17.98,40.49,Pedals,Bulk Discount Store,CARGO TRANSPORT 5,7/1/2021 0:00,Durango,Sucursal 3
+999988,999988,6,5.11,5.21,0.02,0,875,Racing Socks-L,3.36,8.99,Socks,Remarkable Bike Store,CARGO TRANSPORT 5,7/1/2021 0:00,Durango,Sucursal 4
+999989,999989,4,2.99,2.99,0,0,870,Water Bottle - 30 oz.,1.87,4.99,Bottles and Cages,The Bicycle Accessories Company,CARGO TRANSPORT 5,7/1/2021 0:00,Chihuahua,Sucursal 5
